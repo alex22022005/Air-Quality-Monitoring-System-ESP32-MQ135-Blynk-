@@ -39,7 +39,7 @@ The system automatically **calibrates the sensor**, determines air quality statu
 - Calculates **Rs, CO₂ PPM, and Benzene concentration**.  
 - Displays results via Serial and sends to **Blynk Cloud**.  
 
-📂 File: [`air_quality_monitor.ino`](https://github.com/alex22022005/Air-Quality-Monitor-MQ135-ESP32/blob/main/AirQuality_Monitor.ino)
+📂 File: [`air_quality_monitor.ino`](https://github.com/alex22022005/Air-Quality-Monitoring-System-ESP32-MQ135-Blynk-/blob/main/Air_Quality_IOT.ino)
 
 ---
 
